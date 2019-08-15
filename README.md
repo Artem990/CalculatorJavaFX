@@ -1,6 +1,6 @@
 # CalculatorJavaFX
 
-## Local Database
+### Local Database
 
 Create a local database "calcoperations_db" and table with 2 fields: "id" INT (auto_increment), "line" VARCHAR;
 
